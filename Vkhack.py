@@ -1,6 +1,6 @@
 import telebot
 from telebot import apihelper
-bot = telebot.TeleBot('672554903:AAGdiJoIjp1zoVgVoQf3e-yZu_GZngEoi74')
+bot = telebot.TeleB
 import requests
 import os
 import sys
@@ -32,9 +32,7 @@ ________________________________________________________________________________
 print(Fore.GREEN)
 print('''Download Full Releases Y/n?''')
 print(Fore.RESET)
-drr = "jack"
-s = "doss223ru"
-ass = random.randint(80000000000,89999999999)
+t(80000000000,89999999999)
 def dos():
     for i in tqdm(range(100)):
         time.sleep(1)
